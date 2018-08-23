@@ -1,2 +1,2 @@
 # Computer Science 1
-* [Syllabus](syllabus.md)
+[Syllabus](syllabus.md)
