@@ -1,4 +1,4 @@
 # Computer Science 1
 [Syllabus](syllabus.md)
 
-[Course Description]()
+[Course Description](coursedescriptions.md)
