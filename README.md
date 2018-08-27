@@ -2,3 +2,5 @@
 [Syllabus](syllabus.md)
 
 [Course Description](coursedescriptions.md)
+
+[What Is Computer Science](what.is.comp.sci.md)
