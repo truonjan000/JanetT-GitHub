@@ -4,3 +4,5 @@
 [Course Description](coursedescriptions.md)
 
 [What Is Computer Science](what.is.comp.science.md)
+
+[People Of Interest](people.of.interest.md)
