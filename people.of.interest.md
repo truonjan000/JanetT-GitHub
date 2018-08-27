@@ -1,0 +1,3 @@
+# People of Interest
+
+1. Ada Lovelace was known for being the first programmer of computers, even though computers weren't even invented yet. Her father waned her to pursue her studies in math and science. When Ada was 17, she was introduced to a mathmetician university professor, Babbage. Sometime later, she married William King, and he too, took on programming. Although she was married and agreed to be a housewife, she also continued to correspond with Babbage for 20 more years. Several years later, Babbage invented a machine known as the Analytical Engine. He asked Ada to translate the machine. She then wrote a computer algorithm that could be used for anything that we use computers for today.
