@@ -3,4 +3,4 @@
 
 [Course Description](coursedescriptions.md)
 
-[What Is Computer Science](what.is.comp.sci.md)
+[What Is Computer Science](what.is.comp.science.md)
